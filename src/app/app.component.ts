@@ -7,4 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'heros';
+  heroes = [{name: 'Zayed', age: 29}, {name: 'Nahid ', age: 29}, {name: 'Yasin', age: 29}];
 }
